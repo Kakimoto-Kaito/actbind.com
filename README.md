@@ -4,4 +4,4 @@
 ![HTML/CSS](https://img.shields.io/badge/Language-HTML5/CSS-white?style=flat)
 ![AWS](https://img.shields.io/badge/Backend-AWS-orange?style=flat&)
 
-[URL](https://actbind.com)
+[actbind.com](https://www.actbind.com)
